@@ -63,6 +63,6 @@ I build teams and systems that turn ambiguous problems into **repeatable process
 ---
 
 ## Contact
-- Email: (your email)
-- LinkedIn: (your link)
-- Portfolio / Notes: (optional link)
+- Email: elewater.huang@gmail.com
+- Line ID: elewater
+- LinkedIn: https://www.linkedin.com/in/hsin-ju-huang-46587742/
